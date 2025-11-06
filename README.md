@@ -4,6 +4,9 @@ An example project to train word embeddings (word vectors) using a simple neural
 
 This repository contains minimal code and recipes to experiment with training word vectors on small text datasets.
 
+<img width="848" height="728" alt="image" src="https://github.com/user-attachments/assets/7a35d24b-fbe4-4cbf-bcf0-690f8c145172" />
+
+
 ## Repository layout
 
 - `main.py`, `train.py`, `NNLM.py`, `utils.py` — model and training code.
